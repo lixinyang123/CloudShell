@@ -5,7 +5,7 @@
   "main": "./src/main.js",
   "type": "module",
   "dependencies": {
-    "dotenv": "^17.0.1"
+    "dotenv": "^17.2.0"
   },
   "scripts": {
     "restore": "npm install",
